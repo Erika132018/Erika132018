@@ -1,16 +1,14 @@
-### Hi there 👋
+### Saludos.👋 
+Soy Erika Curimilma, una estudiante de Ingeniería en Ciencias de la Computación, cuya pasión por la tecnología impulsa mi búsqueda incansable de nuevos conceptos y soluciones innovadoras para los desafíos informáticos. Me caracterizo por mantener un enfoque riguroso en el aprendizaje continuo, siempre actualizado en un campo que evoluciona constantemente, para mantenerme a la vanguardia de mi carrera.
 
-<!--
-**Erika132018/Erika132018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Habilidades tecnicas:
+*Lenguajes de programación: C y C++.
+    
+    
+### Experiencia académica:
+*Universidad Nacional de Loja, Ingeniería en Ciencias de la Computación (2022 - Presente)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Objetivos profesionales:
+En calidad de estudiante de Ingeniería en Ciencias de la Computación, persigo activamente la adquisición de experiencia práctica a través de pasantías o proyectos en la industria del desarrollo de software. Mi enfoque se centra en aplicar mis conocimientos teóricos y competencias técnicas para abordar desafíos concretos, con el objetivo de impulsar mi desarrollo profesional continuo. Albergando una visión a largo plazo, aspiro a forjar una destacada trayectoria como ingeniero en Ciencias de la Computación altamente capacitado, ejerciendo un impacto significativo en el desarrollo de soluciones tecnológicas innovadoras que propicien efectos benéficos para la sociedad en su conjunto.
+
