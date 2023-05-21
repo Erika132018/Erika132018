@@ -13,6 +13,7 @@ Soy Erika Curimilma, una estudiante de Ingeniería en Ciencias de la Computació
 En calidad de estudiante de Ingeniería en Ciencias de la Computación, persigo activamente la adquisición de experiencia práctica a través de pasantías o proyectos en la industria del desarrollo de software. Mi enfoque se centra en aplicar mis conocimientos teóricos y competencias técnicas para abordar desafíos concretos, con el objetivo de impulsar mi desarrollo profesional continuo. Albergando una visión a largo plazo, aspiro a forjar una destacada trayectoria como ingeniero en Ciencias de la Computación altamente capacitado, ejerciendo un impacto significativo en el desarrollo de soluciones tecnológicas innovadoras que propicien efectos benéficos para la sociedad en su conjunto.
 
 ##contacto
+
 GMAIL: erika.l.curimilma@unl.edu.ec
 
 
